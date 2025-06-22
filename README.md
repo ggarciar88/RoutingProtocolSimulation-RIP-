@@ -1,3 +1,15 @@
+```text
+                             _           ___   ___  
+                            (_)         / _ \ / _ \   not©          not©          not©          not©          not©          not©          not©          not©          not©
+   __ _ __ _ __ _ _ __ ___ _ __ _ _  __| (_) | (_) |       not©          not©          not©          not©          not©          not©          not©          not©          not©    
+  / _` |/ _` |/ _` | '__/ __| |/ _` |   > _ < > _ <              not©          not©          not©          not©          not©          not©          not©          not©          not©     
+ | (_| | (_| | (_| | |  ( __| | (_| | || (_) | (_) |
+  \__, |\__, |\__,_|_|\_ ___|_|\__,_|_| \___/ \___/                 
+   __/ | __/ |                                       
+  |___/ |___/                                        
+     
+
+@ggarciar88  // RoutingProtocolSimulation-RIP
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Routing Protocol Simulation (RIP)
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -25,11 +37,11 @@ Each node:
 
 ## Sample Topology
 
-    A
-   / \
-  B---C
-   \ /
-    D
+          A
+         / \
+        B---C
+         \ /
+          D
 
 ## How to Run
 
@@ -49,7 +61,9 @@ You will see each node’s routing table printed after simulation.
 
 ## License
 
-Simulation inspired by networking classes and developed for educational purposes.
+This project is open-source and free to use for educational and personal learning purposes.
+Released under the MIT License (view LICENSE file).
+
 
 
 
